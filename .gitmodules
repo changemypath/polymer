@@ -298,3 +298,291 @@
 [submodule "paper-scroll-header-panel"]
 	path = paper-scroll-header-panel
 	url = https://github.com/PolymerElements/paper-scroll-header-panel.git
+[submodule "vaadin-icons"]
+	path = vaadin-icons
+	url = https://github.com/vaadin/vaadin-icons
+[submodule "social-media-icons"]
+	path = social-media-icons
+	url = https://github.com/phani1kumar/social-media-icons
+[submodule "vaadin-split-layout"]
+	path = vaadin-split-layout
+	url = https://github.com/vaadin/vaadin-split-layout
+[submodule "polymer-sortablejs"]
+	path = polymer-sortablejs
+	url = https://github.com/SortableJS/polymer-sortablejs
+[submodule "webcomponentsjs"]
+	path = webcomponentsjs
+	url = https://github.com/webcomponents/webcomponentsjs
+[submodule "paper-tags-input"]
+	path = paper-tags-input
+	url = https://github.com/hullo-ai/paper-tags-input
+[submodule "polymer-redux"]
+	path = polymer-redux
+	url = https://github.com/tur-nr/polymer-redux
+[submodule "angular-interop"]
+	path = angular-interop
+	url = https://github.com/webcomponents/angular-interop
+[submodule "apply-shim"]
+	path = apply-shim
+	url = https://github.com/webcomponents/apply-shim
+[submodule "chrome-webcomponents-extension"]
+	path = chrome-webcomponents-extension
+	url = https://github.com/webcomponents/chrome-webcomponents-extension
+[submodule "community"]
+	path = community
+	url = https://github.com/webcomponents/community
+[submodule "custom-elements"]
+	path = custom-elements
+	url = https://github.com/webcomponents/custom-elements
+[submodule "element-boilerplate"]
+	path = element-boilerplate
+	url = https://github.com/webcomponents/element-boilerplate
+[submodule "generator-element"]
+	path = generator-element
+	url = https://github.com/webcomponents/generator-element
+[submodule "gold-standard"]
+	path = gold-standard
+	url = https://github.com/webcomponents/gold-standard
+[submodule "hello-world-element"]
+	path = hello-world-element
+	url = https://github.com/webcomponents/hello-world-element
+[submodule "hello-world-polymer"]
+	path = hello-world-polymer
+	url = https://github.com/webcomponents/hello-world-polymer
+[submodule "hello-world-xtag"]
+	path = hello-world-xtag
+	url = https://github.com/webcomponents/hello-world-xtag
+[submodule "html-imports"]
+	path = html-imports
+	url = https://github.com/webcomponents/html-imports
+[submodule "less-interop"]
+	path = less-interop
+	url = https://github.com/webcomponents/less-interop
+[submodule "polymer-boilerplate"]
+	path = polymer-boilerplate
+	url = https://github.com/webcomponents/polymer-boilerplate
+[submodule "react-integration"]
+	path = react-integration
+	url = https://github.com/webcomponents/react-integration
+[submodule "sass-interop"]
+	path = sass-interop
+	url = https://github.com/webcomponents/sass-interop
+[submodule "shadycss"]
+	path = shadycss
+	url = https://github.com/webcomponents/shadycss
+[submodule "shadydom"]
+	path = shadydom
+	url = https://github.com/webcomponents/shadydom
+[submodule "slush-element"]
+	path = slush-element
+	url = https://github.com/webcomponents/slush-element
+[submodule "template"]
+	path = template
+	url = https://github.com/webcomponents/template
+[submodule "URL"]
+	path = URL
+	url = https://github.com/webcomponents/URL
+[submodule "webcomponents-icons"]
+	path = webcomponents-icons
+	url = https://github.com/webcomponents/webcomponents-icons
+[submodule "webcomponents-lite"]
+	path = webcomponents-lite
+	url = https://github.com/webcomponents/webcomponents-lite
+[submodule "webcomponents-platform"]
+	path = webcomponents-platform
+	url = https://github.com/webcomponents/webcomponents-platform
+[submodule "webcomponents.github.io"]
+	path = webcomponents.github.io
+	url = https://github.com/webcomponents/webcomponents.github.io
+[submodule "webcomponents.org"]
+	path = webcomponents.org
+	url = https://github.com/webcomponents/webcomponents.org
+[submodule "xtag-boilerplate"]
+	path = xtag-boilerplate
+	url = https://github.com/webcomponents/xtag-boilerplate
+[submodule "atom-plugin"]
+	path = atom-plugin
+	url = https://github.com/Polymer/atom-plugin
+[submodule "core-overlay"]
+	path = core-overlay
+	url = https://github.com/Polymer/core-overlay
+[submodule "designer"]
+	path = designer
+	url = https://github.com/Polymer/designer
+[submodule "dom5"]
+	path = dom5
+	url = https://github.com/Polymer/dom5
+[submodule "gen-closure-declarations"]
+	path = gen-closure-declarations
+	url = https://github.com/Polymer/gen-closure-declarations
+[submodule "hn-polymer-2"]
+	path = hn-polymer-2
+	url = https://github.com/Polymer/hn-polymer-2
+[submodule "lazy-imports"]
+	path = lazy-imports
+	url = https://github.com/Polymer/lazy-imports
+[submodule "news"]
+	path = news
+	url = https://github.com/Polymer/news
+[submodule "news-docs"]
+	path = news-docs
+	url = https://github.com/Polymer/news-docs
+[submodule "plylog"]
+	path = plylog
+	url = https://github.com/Polymer/plylog
+[submodule "polygit"]
+	path = polygit
+	url = https://github.com/Polymer/polygit
+[submodule "polymer"]
+	path = polymer
+	url = https://github.com/Polymer/polymer
+[submodule "polymer-addons"]
+	path = polymer-addons
+	url = https://github.com/Polymer/polymer-addons
+[submodule "polymer-analyzer"]
+	path = polymer-analyzer
+	url = https://github.com/Polymer/polymer-analyzer
+[submodule "polymer-build"]
+	path = polymer-build
+	url = https://github.com/Polymer/polymer-build
+[submodule "polymer-bundler"]
+	path = polymer-bundler
+	url = https://github.com/Polymer/polymer-bundler
+[submodule "polymer-cli"]
+	path = polymer-cli
+	url = https://github.com/Polymer/polymer-cli
+[submodule "polymer-css-build"]
+	path = polymer-css-build
+	url = https://github.com/Polymer/polymer-css-build
+[submodule "polymer-decorators"]
+	path = polymer-decorators
+	url = https://github.com/Polymer/polymer-decorators
+[submodule "polymer-dev"]
+	path = polymer-dev
+	url = https://github.com/Polymer/polymer-dev
+[submodule "polymer-editor-service"]
+	path = polymer-editor-service
+	url = https://github.com/Polymer/polymer-editor-service
+[submodule "polymer-element-catalog"]
+	path = polymer-element-catalog
+	url = https://github.com/Polymer/polymer-element-catalog
+[submodule "polymer-expressions"]
+	path = polymer-expressions
+	url = https://github.com/Polymer/polymer-expressions
+[submodule "polymer-gestures"]
+	path = polymer-gestures
+	url = https://github.com/Polymer/polymer-gestures
+[submodule "polymer-linter"]
+	path = polymer-linter
+	url = https://github.com/Polymer/polymer-linter
+[submodule "polymer-project-config"]
+	path = polymer-project-config
+	url = https://github.com/Polymer/polymer-project-config
+[submodule "polymer-resin"]
+	path = polymer-resin
+	url = https://github.com/Polymer/polymer-resin
+[submodule "polymer-sublime-plugin"]
+	path = polymer-sublime-plugin
+	url = https://github.com/Polymer/polymer-sublime-plugin
+[submodule "polymer-test-tools"]
+	path = polymer-test-tools
+	url = https://github.com/Polymer/polymer-test-tools
+[submodule "polymer-tutorial"]
+	path = polymer-tutorial
+	url = https://github.com/Polymer/polymer-tutorial
+[submodule "polymer-upgrade"]
+	path = polymer-upgrade
+	url = https://github.com/Polymer/polymer-upgrade
+[submodule "polymer.github.io"]
+	path = polymer.github.io
+	url = https://github.com/Polymer/polymer.github.io
+[submodule "polyserve"]
+	path = polyserve
+	url = https://github.com/Polymer/polyserve
+[submodule "prpl-server-node"]
+	path = prpl-server-node
+	url = https://github.com/Polymer/prpl-server-node
+[submodule "shop"]
+	path = shop
+	url = https://github.com/Polymer/shop
+[submodule "test-fixture"]
+	path = test-fixture
+	url = https://github.com/Polymer/test-fixture
+[submodule "tools-common"]
+	path = tools-common
+	url = https://github.com/Polymer/tools-common
+[submodule "tools-sample-projects"]
+	path = tools-sample-projects
+	url = https://github.com/Polymer/tools-sample-projects
+[submodule "vscode-plugin"]
+	path = vscode-plugin
+	url = https://github.com/Polymer/vscode-plugin
+[submodule "wct-local"]
+	path = wct-local
+	url = https://github.com/Polymer/wct-local
+[submodule "paper-slider"]
+	path = paper-slider
+	url = https://github.com/PolymerElements/paper-slider
+[submodule "paper-spinner"]
+	path = paper-spinner
+	url = https://github.com/PolymerElements/paper-spinner
+[submodule "paper-styles"]
+	path = paper-styles
+	url = https://github.com/PolymerElements/paper-styles
+[submodule "paper-swatch-picker"]
+	path = paper-swatch-picker
+	url = https://github.com/PolymerElements/paper-swatch-picker
+[submodule "paper-tabs"]
+	path = paper-tabs
+	url = https://github.com/PolymerElements/paper-tabs
+[submodule "paper-text-field"]
+	path = paper-text-field
+	url = https://github.com/PolymerElements/paper-text-field
+[submodule "paper-toast"]
+	path = paper-toast
+	url = https://github.com/PolymerElements/paper-toast
+[submodule "paper-toggle-button"]
+	path = paper-toggle-button
+	url = https://github.com/PolymerElements/paper-toggle-button
+[submodule "paper-toolbar"]
+	path = paper-toolbar
+	url = https://github.com/PolymerElements/paper-toolbar
+[submodule "paper-tooltip"]
+	path = paper-tooltip
+	url = https://github.com/PolymerElements/paper-tooltip
+[submodule "paper-ui-elements"]
+	path = paper-ui-elements
+	url = https://github.com/PolymerElements/paper-ui-elements
+[submodule "platinum-bluetooth"]
+	path = platinum-bluetooth
+	url = https://github.com/PolymerElements/platinum-bluetooth
+[submodule "platinum-elements"]
+	path = platinum-elements
+	url = https://github.com/PolymerElements/platinum-elements
+[submodule "platinum-https-redirect"]
+	path = platinum-https-redirect
+	url = https://github.com/PolymerElements/platinum-https-redirect
+[submodule "platinum-push-messaging"]
+	path = platinum-push-messaging
+	url = https://github.com/PolymerElements/platinum-push-messaging
+[submodule "platinum-sw"]
+	path = platinum-sw
+	url = https://github.com/PolymerElements/platinum-sw
+[submodule "polymer-starter-kit"]
+	path = polymer-starter-kit
+	url = https://github.com/PolymerElements/polymer-starter-kit
+[submodule "prism-element"]
+	path = prism-element
+	url = https://github.com/PolymerElements/prism-element
+[submodule "seed-element"]
+	path = seed-element
+	url = https://github.com/PolymerElements/seed-element
+[submodule "style-guide"]
+	path = style-guide
+	url = https://github.com/PolymerElements/style-guide
+[submodule "test-all"]
+	path = test-all
+	url = https://github.com/PolymerElements/test-all
+[submodule "test-benchmark"]
+	path = test-benchmark
+	url = https://github.com/PolymerElements/test-benchmark
