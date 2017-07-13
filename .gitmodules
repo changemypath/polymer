@@ -586,3 +586,6 @@
 [submodule "test-benchmark"]
 	path = test-benchmark
 	url = https://github.com/PolymerElements/test-benchmark
+[submodule "marked"]
+	path = marked
+	url = https://github.com/chjj/marked
