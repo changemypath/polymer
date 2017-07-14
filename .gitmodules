@@ -589,3 +589,9 @@
 [submodule "marked"]
 	path = marked
 	url = https://github.com/chjj/marked
+[submodule "vaadin-themable-mixin"]
+	path = vaadin-themable-mixin
+	url = https://github.com/vaadin/vaadin-themable-mixin
+[submodule "the-grid"]
+	path = the-grid
+	url = https://github.com/vpusher/the-grid
