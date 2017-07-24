@@ -595,3 +595,6 @@
 [submodule "the-grid"]
 	path = the-grid
 	url = https://github.com/vpusher/the-grid
+[submodule "prism"]
+	path = prism
+	url = https://github.com/PrismJS/prism
