@@ -601,3 +601,6 @@
 [submodule "prism"]
 	path = prism
 	url = https://github.com/PrismJS/prism
+[submodule "google-apis"]
+	path = google-apis
+	url = https://github.com/GoogleWebComponents/google-apis
