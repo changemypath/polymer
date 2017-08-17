@@ -607,3 +607,6 @@
 [submodule "videojs-markers"]
 	path = videojs-markers
 	url = https://github.com/spchuang/videojs-markers
+[submodule "pdf-viewer"]
+	path = pdf-viewer
+	url = https://github.com/telecomsante/pdf-viewer
