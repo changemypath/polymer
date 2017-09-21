@@ -613,3 +613,15 @@
 [submodule "resize-observer-polyfill"]
 	path = resize-observer-polyfill
 	url = https://github.com/marchaos/resize-observer-polyfill
+[submodule "iron-collapse-button"]
+	path = iron-collapse-button
+	url = https://github.com/jifalops/iron-collapse-button
+[submodule "resize-observer-polyfill"]
+	path = resize-observer-polyfill
+	url = https://github.com/marchaos/resize-observer-polyfill
+[submodule "custom-elements-everywhere"]
+	path = custom-elements-everywhere
+	url = https://github.com/webcomponents/custom-elements-everywhere
+[submodule "polymer-modulizer"]
+	path = polymer-modulizer
+	url = https://github.com/Polymer/polymer-modulizer
