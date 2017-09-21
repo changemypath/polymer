@@ -610,3 +610,6 @@
 [submodule "pdf-viewer"]
 	path = pdf-viewer
 	url = https://github.com/telecomsante/pdf-viewer
+[submodule "resize-observer-polyfill"]
+	path = resize-observer-polyfill
+	url = https://github.com/marchaos/resize-observer-polyfill
