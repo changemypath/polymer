@@ -625,3 +625,12 @@
 [submodule "polymer-modulizer"]
 	path = polymer-modulizer
 	url = https://github.com/Polymer/polymer-modulizer
+[submodule "res"]
+	path = res
+	url = https://github.com/ryanve/res
+[submodule "detect-zoom"]
+	path = detect-zoom
+	url = https://github.com/tombigel/detect-zoom
+[submodule "polymerfire"]
+	path = polymerfire
+	url = https://github.com/firebase/polymerfire
