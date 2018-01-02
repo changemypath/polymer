@@ -634,3 +634,24 @@
 [submodule "polymerfire"]
 	path = polymerfire
 	url = https://github.com/firebase/polymerfire
+[submodule "vaadin-combo-box"]
+	path = vaadin-combo-box
+	url = https://github.com/vaadin/vaadin-combo-box
+[submodule "polymer-workspaces"]
+	path = polymer-workspaces
+	url = https://github.com/Polymer/polymer-workspaces
+[submodule "vaadin-overlay"]
+	path = vaadin-overlay
+	url = https://github.com/vaadin/vaadin-overlay
+[submodule "vaadin-text-field"]
+	path = vaadin-text-field
+	url = https://github.com/vaadin/vaadin-text-field
+[submodule "vaadin-control-state-mixin"]
+	path = vaadin-control-state-mixin
+	url = https://github.com/vaadin/vaadin-control-state-mixin
+[submodule "vaadin-material-theme"]
+	path = vaadin-material-theme
+	url = https://github.com/vaadin/vaadin-material-theme
+[submodule "paper-dropdown"]
+	path = paper-dropdown
+	url = https://github.com/pushkar8723/paper-dropdown
