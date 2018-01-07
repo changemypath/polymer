@@ -664,3 +664,6 @@
 [submodule "vaadin-development-mode-detector"]
 	path = vaadin-development-mode-detector
 	url = https://github.com/vaadin/vaadin-development-mode-detector
+[submodule "vaadin-usage-statistics"]
+	path = vaadin-usage-statistics
+	url = https://github.com/vaadin/vaadin-usage-statistics
