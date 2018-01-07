@@ -655,3 +655,12 @@
 [submodule "paper-dropdown"]
 	path = paper-dropdown
 	url = https://github.com/pushkar8723/paper-dropdown
+[submodule "vaadin-valo-styles"]
+	path = vaadin-valo-styles
+	url = https://github.com/vaadin/vaadin-valo-styles
+[submodule "vaadin-element-mixin"]
+	path = vaadin-element-mixin
+	url = https://github.com/vaadin/vaadin-element-mixin
+[submodule "vaadin-development-mode-detector"]
+	path = vaadin-development-mode-detector
+	url = https://github.com/vaadin/vaadin-development-mode-detector
