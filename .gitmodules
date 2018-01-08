@@ -43,9 +43,6 @@
 [submodule "generator-polymer-init-polymer-1"]
 	path = generator-polymer-init-polymer-1
 	url = https://github.com/PolymerElements/generator-polymer-init-polymer-1.git
-[submodule "google-youtube"]
-	path = google-youtube
-	url = https://github.com/GoogleWebComponents/google-youtube.git
 [submodule "gold-cc-cvc-input"]
 	path = gold-cc-cvc-input
 	url = https://github.com/PolymerElements/gold-cc-cvc-input.git
@@ -667,3 +664,6 @@
 [submodule "vaadin-usage-statistics"]
 	path = vaadin-usage-statistics
 	url = https://github.com/vaadin/vaadin-usage-statistics
+[submodule "google-youtube"]
+	path = google-youtube
+	url = https://github.com/GoogleWebComponents/google-youtube
