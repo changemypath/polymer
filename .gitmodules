@@ -355,18 +355,12 @@
 [submodule "html-imports"]
 	path = html-imports
 	url = https://github.com/webcomponents/html-imports
-[submodule "less-interop"]
-	path = less-interop
-	url = https://github.com/webcomponents/less-interop
 [submodule "polymer-boilerplate"]
 	path = polymer-boilerplate
 	url = https://github.com/webcomponents/polymer-boilerplate
 [submodule "react-integration"]
 	path = react-integration
 	url = https://github.com/webcomponents/react-integration
-[submodule "sass-interop"]
-	path = sass-interop
-	url = https://github.com/webcomponents/sass-interop
 [submodule "shadycss"]
 	path = shadycss
 	url = https://github.com/webcomponents/shadycss
