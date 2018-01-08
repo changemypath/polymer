@@ -1,6 +1,6 @@
 polymerupdate:
-	echo git submodule foreach 'git stash'
-	echo git submodule foreach 'git checkout master; exit 0'
+	git submodule foreach 'git stash'
+	git submodule foreach 'git checkout master; exit 0'
 	git submodule foreach 'git pull; exit 0'
 
 update: polymerupdate
