@@ -1,6 +1,10 @@
 polymerupdate:
-	git submodule foreach 'git checkout master; exit 0'
-	git submodule foreach 'git pull'
+	echo git submodule foreach 'git stash'
+	echo git submodule foreach 'git checkout master; exit 0'
+	git submodule foreach 'git pull; exit 0'
+
+update: polymerupdate
+	cd ../polymer && git submodule update
 
 lint:
 	polymer lint --rules=polymer-2 --root . --entrypoint index.html --entrypoint tester.html --entrypoint src/**/*.html --entrypoint test/**/*.html
