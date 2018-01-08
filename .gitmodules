@@ -661,3 +661,9 @@
 [submodule "google-youtube"]
 	path = google-youtube
 	url = https://github.com/GoogleWebComponents/google-youtube
+[submodule "less-interop"]
+	path = less-interop
+	url = https://github.com/webcomponents/less-interop
+[submodule "sass-interop"]
+	path = sass-interop
+	url = https://github.com/webcomponents/sass-interop
