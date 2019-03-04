@@ -676,3 +676,9 @@
 [submodule "vaadin-lumo-styles"]
 	path = vaadin-lumo-styles
 	url = https://github.com/vaadin/vaadin-lumo-styles
+[submodule "polymer-library-docs"]
+	path = polymer-library-docs
+	url = https://github.com/Polymer/polymer-library-docs
+[submodule "polymer-project.org"]
+	path = polymer-project.org
+	url = https://github.com/Polymer/polymer-project.org
